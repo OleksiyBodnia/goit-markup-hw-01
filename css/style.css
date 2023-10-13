@@ -16,7 +16,7 @@
     background-color: #FFFFFF;
   }
 
-  .logotype{
+  .logotype {
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -38,7 +38,7 @@
     line-height: 1.5; /* 150% */
     letter-spacing: 0.02em;
   }
-  .menu-link:hover{
+  .menu-link:hover {
     color: #404BBF;
   }
 
@@ -75,7 +75,7 @@
     line-height: 1.07; /* 107.143% */
     letter-spacing: 0.02em;
   }
-  .order-btn{
+  .order-btn {
     background-color: #4D5AE5;
     color: #FFF;
     font-family: "Roboto", sans-serif;
@@ -93,7 +93,7 @@
 
     
 
-  .portfolio{
+  .portfolio {
     background-color: #fff;
   }
 
@@ -128,15 +128,15 @@
     background-color: #F4F4FD;
   }
 
-  .team-list-item{
+  .team-list-item {
     background-color: #FFF;
   }
-  .team-img{
+  .team-img {
     background-color: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
 
   }
 
-  .team-h3{
+  .team-h3 {
     color: #2E2F42;
     text-align: center;
     font-family: "Roboto", sans-serif;
@@ -155,10 +155,10 @@
     letter-spacing: 0.02em;
   }
   
-  .our-portfolio{
+  .our-portfolio {
     background-color: #FFF;
   }
-  .our-portfolio-main-title{
+  .our-portfolio-main-title {
     color: #2E2F42;
     text-align: center;
     font-family: "Roboto", sans-serif;
@@ -168,14 +168,14 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
   }
-  .our-portfolio-img{
+  .our-portfolio-img {
     background: url(<path-to-image>), lightgray -25.026px 0px / 125% 100% no-repeat;
   }
-  .our-portfolio-list-item{
+  .our-portfolio-list-item {
     background-color: #FFF;
   }
 
-  .our-portfolio-h3{
+  .our-portfolio-h3 {
     color: #2E2F42;
     font-family: "Roboto", sans-serif;
     font-size: 20px;
@@ -183,7 +183,7 @@
     line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;
   }
-  .our-portfolio-p{
+  .our-portfolio-p {
     color: #434455;   
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -192,11 +192,11 @@
     letter-spacing: 0.02em;
   }
 
-  .page-footer{
+  .page-footer {
     background-color: #2E2F42;
   }
   
-  .page-footer-link{
+  .page-footer-link {
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -205,10 +205,10 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
   }
-  .page-footer-studio{
+  .page-footer-studio {
     color: #f4f4fd;
   }
-  .page-footer-p{
+  .page-footer-p {
     color: #F4F4FD;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
