@@ -116,7 +116,7 @@
     letter-spacing: 0.02em;
   }
 
-  .section3-main-title {
+  .team-main-title {
     color: #2E2F42;
     text-align: center;
     font-family: "Roboto", sans-serif;
@@ -126,19 +126,19 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
   }
-  .section3 {
+  .team {
     background-color: #F4F4FD;
   }
 
-  .section3-list-item{
+  .team-list-item{
     background-color: #FFF;
   }
-  .section3-img{
+  .team-img{
     background-color: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
 
   }
 
-  .section3-h3{
+  .team-h3{
     color: #2E2F42;
     text-align: center;
     font-family: "Roboto", sans-serif;
@@ -147,7 +147,7 @@
     line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;
   }
-  .section3-p {
+  .team-p {
     color: #434455;
     text-align: center;
     font-family: "Roboto", sans-serif;
