@@ -196,14 +196,14 @@
     background-color: #2E2F42;
   }
   
-  .page-footer-link {
-    color: #4D5AE5;
+  .page-footer-link {    
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.17; /* 116.667% */
-    letter-spacing: 0.03em;
+    line-height: 1.17;
     text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
   }
   .page-footer-studio {
     color: #f4f4fd;
