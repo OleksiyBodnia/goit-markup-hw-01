@@ -79,12 +79,6 @@
   }
   .order-btn{
     background: #4D5AE5;
-  }
-  .orden-btn:hover{
-    background-color: #404BBF;
-  }
-  
-  .order-btn-text {
     color: #FFF;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -92,12 +86,19 @@
     line-height: 1.5; /* 150% */
     letter-spacing: 0.04em;
   }
+  .orden-btn:hover,
+  .order-btn:focus {
+    background-color: #404BBF;
+  }
+  
 
-  .section2{
+    
+
+  .portfolio{
     background-color: #fff;
   }
 
-  .section2-secondary-title {
+  .portfolio-secondary-title {
     color: #2E2F42;
     font-family: "Roboto", sans-serif;
     font-size: 20px;
@@ -105,8 +106,8 @@
     line-height: 1.2; /* 120% */
     letter-spacing: 0.02em;
   }
-  .section2-p {
-    color: var(--SLATE, #434455);
+  .portfolio-p {
+    color: #434455;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -115,7 +116,7 @@
   }
 
   .section3-main-title {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
     text-align: center;
     font-family: "Roboto", sans-serif;
     font-size: 36px;
