@@ -222,6 +222,17 @@ img {
     letter-spacing: 0.02em;
   }
 
+  .portfolio-element{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    border: 1px solid var(--LIGHT-SLATE, #8E8F99);
+  }
+
   .team-main-title {
     color: #2E2F42;
     text-align: center;
