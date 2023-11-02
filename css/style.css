@@ -672,7 +672,9 @@ img {
 .modal-form-checkbox:checked + 
 .modal-form-checkbox-ladel-label
 .modal-form-checkbox-ladel-span{
+  background-color: #404bbf;
   fill: #F4F4FD;
+  border: none;
 }
 .modal-form-checkbox-ladel-label-a{
   color: #4d5ae5;
@@ -695,4 +697,7 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   margin-left: auto;
   margin-right: auto;
+}
+.modal-form-label-div-fourth{
+  margin-bottom: 16px;
 }
